@@ -3,7 +3,6 @@ This repo is a conglomeration of algorithms for competitive programming. It curr
 
 Use this repo to study or review your knowledge and don't forget to star and collaborate!
 
-
 # Contents
 ## Searching Algorithm
 - Binary Search
